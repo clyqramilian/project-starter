@@ -1,0 +1,1 @@
+Before answering, read the context doc in this project. It holds the current decisions, ideas and open questions. Don't contradict its decisions without flagging it. If something new gets decided in chat, say so, so it can be added to the repo's decisions.md and to the context doc.
